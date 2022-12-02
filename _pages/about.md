@@ -13,7 +13,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-By day I'm is a security software architect focusing on product security in the regulated medical environment, by night I love to hack and build web3 crypto stuff.
+By day I'm is a product security architect focusing on product security in the regulated medical environment, by night I love to hack and build web3 crypto stuff.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
