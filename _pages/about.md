@@ -14,24 +14,28 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
->By day I'm a product security architect, overseeing multiple desktop and cloud projects, in a regulated medical environment.  
+## Hi and welcome to my portfolio
+
+>By day I'm a software and product security architect in the regulated medical environment.  
 >
->By night I love dive into the worl of web3 and crypto.
+>By night I love dive into the world of blockchains, cryptocurrencies  and web3.0.
 
-My background is in software development, predominantly Windows desktop applications based on the .net frameworks. I then transitioned into web development and quickly got into cloud computing platforms, here focusing particularly on MS Azure. From there I specialized in software architecture and took on a global software architect role. 
+My background is in software development, predominantly Windows desktop applications based on the .net frameworks. I then transitioned into web development and quickly got into cloud computing platforms, here focusing specifically on Microsoft Azure. From there I focused on software architecture and later took on a global software architect role.
 
-My responsibilities here included amongst others 
-- Designing and implementing an IoT architecture spanning multiple business models and application 
-- Designing and implementing a vulnerability management program and
-- Overseeing multiple products in regards of architecture and security
+My responsibilities here included amongst others:
+
+- Designed and implemented a modern IoT architecture spanning multiple business models and applications including
+- Developed  a vulnerability management program
+- Overseeing a portfolio of products in regards of architecture and security
 - Product security across a global set of software products
 
-My activities in the web3 crypto area include 
+My crypto & blockchain activities include:
+
 - Contributions to major open-source blockchain projects
-- Investigating smart contract platforms incl. cosmos ecosystem, polygon, avalanche and binance smart chain
+- Exploring smart contract platforms incl. cosmos ecosystem, polygon & avalanche
 - Dabbling with smart contracts, mainly CosmWasm and Solidity
-- Investigations into general Blockchain technology, cryptocurrencies, consensus algorithms, FinTec and decentralization
-- Dabbling in DeFi, NFTs and PoS
+- Investigating general Blockchain technology, cryptocurrencies, consensus algorithms, FinTec and decentralization
+- Experimenting with DeFi, NFTs, PoS and governance
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
