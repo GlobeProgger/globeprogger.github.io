@@ -14,12 +14,24 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
->By day I'm a product security architect, responsible for the architecture and the security of a range of desktop and cloud products, in a regulated medical environment.  
+>By day I'm a product security architect, overseeing multiple desktop and cloud projects, in a regulated medical environment.  
 >
->By night I love to hack some boxes and build web3 stuff.
+>By night I love dive into the worl of web3 and crypto.
 
-My background is in software development, Windows desktop applications based on the .net frameworks. I then transitioned into web development and  quickly got into cloud computing platforms, here focusing on MS Azure. From there I specialized in software architecture and took on a global software architect role.  
-Nowadays my main focus on cybersecurity, product security to be more specific.
+My background is in software development, predominantly Windows desktop applications based on the .net frameworks. I then transitioned into web development and quickly got into cloud computing platforms, here focusing particularly on MS Azure. From there I specialized in software architecture and took on a global software architect role. 
+
+My responsibilities here included amongst others 
+- Designing and implementing an IoT architecture spanning multiple business models and application 
+- Designing and implementing a vulnerability management program and
+- Overseeing multiple products in regards of architecture and security
+- Product security across a global set of software products
+
+My activities in the web3 crypto area include 
+- Contributions to major open-source blockchain projects
+- Investigating smart contract platforms incl. cosmos ecosystem, polygon, avalanche and binance smart chain
+- Dabbling with smart contracts, mainly CosmWasm and Solidity
+- Investigations into general Blockchain technology, cryptocurrencies, consensus algorithms, FinTec and decentralization
+- Dabbling in DeFi, NFTs and PoS
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
