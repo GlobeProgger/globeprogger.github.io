@@ -20,7 +20,13 @@ social: true  # includes social icons at the bottom of the page
 >
 >By night I love dive into the world of blockchains, cryptocurrencies  and web3.0.
 
-My background is in software development, predominantly Windows desktop applications based on the .net frameworks. I then transitioned into web development and quickly got into cloud computing platforms, here focusing specifically on Microsoft Azure. From there I focused on software architecture and later took on a global software architect role.
+</br>
+
+My background is in software development, Windows desktop applications based on the .net frameworks. I then transitioned into web development and  quickly got into cloud computing platforms, here focusing on MS Azure. My enthusiasm for clean code and my affinity towards understanding systems led me to specialize in software architecture, and so I took on a global software architect role overseeing multiple cloud and desktop application.
+
+My curiosity in security and the need to fulfill ever growing requirements from clients as well as regulatory bodies drove me to assess my companies security posture and so I fell down the rabbit hole of cybersecurity.  
+
+Nowadays my main focus is cybersecurity, product security to be more specific.
 
 My responsibilities here included amongst others:
 
