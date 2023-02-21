@@ -2,18 +2,19 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Marcus Jawo
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th August 1982
     - name: Languages
       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science in Computer Science and Communications Engineering
+      institution: Universität Duisburg-Essen, Duisburg
+      year: 2011
+      thesis: Development of a 3D laser scanner for capturing spatial geometry based on the Ethernut 3 platform and the generation of 3D models using object-oriented programming languages to simplify navigation in smart home automation.
       description:    
         - Description 1.
         - Description 2.
