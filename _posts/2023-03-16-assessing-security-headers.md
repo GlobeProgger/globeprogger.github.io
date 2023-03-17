@@ -7,8 +7,25 @@ categories: vulnerability-assessment web
 tags: cybersecurity headers webapp
 giscus_comments: true
 ---
+# Assessing Security Header Vulnerabilities in Penetration Test Findings <!-- omit from toc -->
+![Pentest](../assets/img/Assessing%20Security%20Header%20Vulnerabilities.png)
 
-# Assessing Security Header Vulnerabilities in Penetration Test Findings
+## Table of Content <!-- omit from toc -->
+- [Introduction](#introduction)
+  - [Security Headers and Webapp Security](#security-headers-and-webapp-security)
+  - [Importance of Penetration Testing](#importance-of-penetration-testing)
+- [Common security heder penetration test finding](#common-security-heder-penetration-test-finding)
+  - [Missing Security Headers](#missing-security-headers)
+  - [Surplus Security Headers](#surplus-security-headers)
+- [Challenges in assessing security header vulnerabilities](#challenges-in-assessing-security-header-vulnerabilities)
+- [Solutions for addressing challenges in assessing security header vulnerabilities](#solutions-for-addressing-challenges-in-assessing-security-header-vulnerabilities)
+  - [Performing manual testing and analysis](#performing-manual-testing-and-analysis)
+  - [Employing a risk-based approach to vulnerability assessment](#employing-a-risk-based-approach-to-vulnerability-assessment)
+  - [Collaborating with developers and security experts](#collaborating-with-developers-and-security-experts)
+  - [Applying Threat Modeling to Identify Security Requirements](#applying-threat-modeling-to-identify-security-requirements)
+- [Step-by-Step Assessment Guide for Security Header Vulnerabilities](#step-by-step-assessment-guide-for-security-header-vulnerabilities)
+- [Conclusion](#conclusion)
+
 
 ## Introduction
 
