@@ -44,7 +44,7 @@ Security headers are used to protect web applications from a variety of attacks,
 Penetration testing is a crucial component of any organization's security posture, providing valuable insights into the vulnerabilities and weaknesses of their web applications. One of the most common findings in penetration testing is missing or surplus security headers, which can leave web applications vulnerable to a range of attacks. However, determining whether these security headers represent a genuine vulnerability can be challenging, requiring a deep understanding of the web application's context and the potential impact of the missing or surplus security header.
 
 
-## Common security heder penetration test finding
+## Common security header penetration test finding
 
 Common security header vulnerabilities are a frequent finding during penetration testing, which can indicate a weakness in a web application's security posture. There are two common types of security header vulnerabilities: missing headers and surplus headers. Missing headers are HTTP headers that are not present or configured correctly on a web application, leaving it vulnerable to attacks. surplus headers, on the other hand, are headers that are unnecessary for a web application's security and may even introduce new vulnerabilities.
 
