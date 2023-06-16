@@ -7,14 +7,14 @@ categories: vulnerability-assessment web
 tags: cybersecurity headers webapp
 giscus_comments: true
 ---
-# Assessing Security Header Vulnerabilities in Penetration Test Findings <!-- omit from toc -->
-![Pentest](../assets/img/Assessing%20Security%20Header%20Vulnerabilities.png)
+
+<img src="/assets/img/Assessing%20Security%20Header%20Vulnerabilities.png" height="500" />
 
 ## Table of Content <!-- omit from toc -->
 - [Introduction](#introduction)
   - [Security Headers and Webapp Security](#security-headers-and-webapp-security)
   - [Importance of Penetration Testing](#importance-of-penetration-testing)
-- [Common security heder penetration test finding](#common-security-heder-penetration-test-finding)
+- [Common security header penetration test finding](#common-security-header-penetration-test-finding)
   - [Missing Security Headers](#missing-security-headers)
   - [Surplus Security Headers](#surplus-security-headers)
 - [Challenges in assessing security header vulnerabilities](#challenges-in-assessing-security-header-vulnerabilities)
@@ -26,6 +26,7 @@ giscus_comments: true
 - [Step-by-Step Assessment Guide for Security Header Vulnerabilities](#step-by-step-assessment-guide-for-security-header-vulnerabilities)
 - [Conclusion](#conclusion)
 
+---
 
 ## Introduction
 
@@ -120,22 +121,29 @@ In addition to prioritizing security headers, threat modeling can also help iden
 
 ## Step-by-Step Assessment Guide for Security Header Vulnerabilities
 
-Assessing security header vulnerabilities can be a complex process, especially for those who are not familiar with the different types of headers and their implications. To simplify this process, we've created a step-by-step assessment guide that can help you determine whether a penetration test finding related to security headers represents a genuine vulnerability or not, and how to take appropriate actions based on the assessment.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+      Assessing security header vulnerabilities can be a complex process, especially for those who are not familiar with the different types of headers and their implications. To simplify this process, we've created a step-by-step assessment guide that can help you determine whether a penetration test finding related to security headers represents a genuine vulnerability or not, and how to take appropriate actions based on the assessment.
 
-The process starts by identifying whether the header weakens or strengthens the security posture of the application. This is an essential step as some headers are meant to improve security while others can weaken it. Once you've identified the type of header, the next step is to determine whether the strengthening header is missing or the weakening header is present. If the strengthening header is missing, and the weakening header is not present, then there is no vulnerability found, and you can move on to the next header.
+      The process starts by identifying whether the header weakens or strengthens the security posture of the application. This is an essential step as some headers are meant to improve security while others can weaken it. Once you've identified the type of header, the next step is to determine whether the strengthening header is missing or the weakening header is present. If the strengthening header is missing, and the weakening header is not present, then there is no vulnerability found, and you can move on to the next header.
 
-However, if the header is missing, and adding it would strengthen the security posture, then a vulnerability is found, and you should take action to add the header. On the other hand, if the header is present, and removing it would strengthen the security posture, a vulnerability is found, and you should remove the header.
+      However, if the header is missing, and adding it would strengthen the security posture, then a vulnerability is found, and you should take action to add the header. On the other hand, if the header is present, and removing it would strengthen the security posture, a vulnerability is found, and you should remove the header.
 
-The process then proceeds to assess the impact of adding or removing the header. If adding or removing the header negatively impacts the application's functionality, you should evaluate whether the risks outweigh the benefits of adding or removing the header. If the benefits outweigh the risks, you can proceed to add or remove the header. If not, you should leave the header as is.
+      The process then proceeds to assess the impact of adding or removing the header. If adding or removing the header negatively impacts the application's functionality, you should evaluate whether the risks outweigh the benefits of adding or removing the header. If the benefits outweigh the risks, you can proceed to add or remove the header. If not, you should leave the header as is.
 
+      
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <p align = "center">
+          <img src="/assets/img/Security%20Header%20Assessment.png" alt= "Security Header Assessment" width="500"/>  
+        </p>
+        <p align = "center">
+          Fig.1 - Assessment Guide for Security Header Vulnerabilities
+        </p>
+    </div>
+</div>
+  
 By following this step-by-step assessment guide, you can ensure that you are making informed decisions when it comes to security headers and their impact on your application's security posture. This approach allows you to assess each header on a case-by-case basis, making sure that you are not compromising security or functionality.
-
-<p align = "center">
-<img src="../assets/img/Security%20Header%20Assessment.png" alt= "Security Header Assessment" width="500">  
-</p>
-<p align = "center">
-Fig.1 - Assessment Guide for Security Header Vulnerabilities
-</p>
 
 ## Conclusion
 

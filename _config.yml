@@ -115,7 +115,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Security vs. Reality. The purple pill please! # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A window into the ever-evolving world of product security.
+blog_description: A window into my view of the ever-evolving world of product security.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -127,7 +127,7 @@ pagination:
 # the information below.
 giscus:
   repo: GlobeProgger/globeprogger.github.io      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: 568549390
+  repo_id: R_kgDOIeNgDg
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
   mapping: title                 # identify discussions by post title
