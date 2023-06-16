@@ -5,8 +5,8 @@ inline: false
 title:  "Conquering the CISSP Certificate Exam"
 description: My Intense Journey with Firebrand Training
 tags: CISSP Cybersecurity Certification Exam-Preparation ISC² Firebrand-Training Professional-Development Career-Advancement
-giscus_comments: true
 categories: cybersecurity certifications personal-achievements professional-growth training-and-education
+giscus_comments: true
 ---
 
 ## Table of Content <!-- omit from toc -->

@@ -3,7 +3,7 @@ layout: post
 title: Assessing Security Header Vulnerabilities in Penetration Test Findings
 date: 2023-03-16
 description: A structured method to determine vulnerabilities
-categories: vulnerability-assessment web
+categories: Vulnerability-Assessment Web
 tags: cybersecurity headers webapp
 giscus_comments: true
 ---
