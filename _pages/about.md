@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 ## Hi and welcome to my portfolio
   
->By day I'm a software <!-- and product security  -->architect in the regulated medical environment  
+>By day I'm a cyber security architect in the regulated medical environment focusing on product security
  
 >By night I love to dive into the world of blockchains, cryptocurrencies and web3.0
   
@@ -24,7 +24,7 @@ My background is in software development, Windows desktop applications based on 
  
 My curiosity in security and the need to fulfill ever growing requirements from clients as well as regulatory bodies drove me to assess my companies security posture and so I fell down the rabbit hole of cybersecurity.  
  
-Nowadays my main focus is cybersecurity, product security to be more specific.  
+Nowadays I spend my time guiding product teams to design secure products that withstand the ever-evolving threat landscape. Here I engage in activities like threat modeling and vulnerability assessment to introduce security into the product lifecycle as early and regularly as possible.     
  
 My responsibilities here included amongst others:
 
@@ -35,8 +35,10 @@ My responsibilities here included amongst others:
  
 My crypto & blockchain activities include:
 
+- Diving into decentralized systems architecture and understanding core concepts
+- Dabbling with the philosophy of decentralized governance
 - Contributions to major open-source blockchain projects
-- Exploring smart contract platforms incl. cosmos ecosystem, polygon & avalanche 
+- Exploring smart contract platforms incl. ethereum, the cosmos ecosystem, polygon & avalanche 
 - Creating smart contracts, mainly based on CosmWasm and Solidity
 - Investigating general Blockchain technology, cryptocurrencies, consensus algorithms, FinTec and decentralization
 - Experimenting with DeFi, NFTs, Play2Earn, PoS and governance
