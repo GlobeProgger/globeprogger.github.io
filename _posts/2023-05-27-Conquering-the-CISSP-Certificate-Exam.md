@@ -4,8 +4,8 @@ date: 2023-05-27
 inline: false
 title:  "Conquering the CISSP Certificate Exam"
 description: My Intense Journey with Firebrand Training
-tags: CISSP Cybersecurity Certification Exam-Preparation ISC² Firebrand-Training Professional-Development Career-Advancement
-categories: cybersecurity certifications personal-achievements professional-growth training-and-education
+tags: CISSP certification exam-reparation ISC² firebrand-training professional-development career-advancement
+categories: Certifications ProfessionalGrowth PersonalAchievements Training&Education
 giscus_comments: true
 ---
 
