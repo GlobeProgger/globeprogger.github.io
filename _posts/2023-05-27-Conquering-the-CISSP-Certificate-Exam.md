@@ -9,6 +9,8 @@ categories: Certifications ProfessionalGrowth PersonalAchievements Training&Educ
 giscus_comments: true
 ---
 
+<img src="/assets/img/CISSP_cert.png" height="500" />
+
 ## Table of Content <!-- omit from toc -->
 - [Introduction](#introduction)
 - [The Road to Success](#the-road-to-success)
