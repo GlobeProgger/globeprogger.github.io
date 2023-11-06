@@ -3,8 +3,8 @@ layout: post
 title: Embracing the Future of Cybersecurity
 date: 2023-11-06
 description: Insights from the ISC2 Cybersecurity Workforce Study 2023
-categories: CloudSecurity PenetrationTesting RiskManagement
-tags: security-headers threat-modeling secure-coding best-practices collaboration-and-teamwork
+categories: ProfessionalGrowth ReportReviews Training&Education
+tags: ISC2 FutureOfSecurity
 giscus_comments: true
 ---
 
