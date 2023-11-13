@@ -12,6 +12,8 @@
 - CISSP
 - security-headers
 - secure-coding
+- ISC2
+- FutureOfSecurity
 
 # Categories
 
@@ -28,3 +30,4 @@
 - PersonalAchievements
 - Training&Education
 - Certifications
+- ReportReviews 
