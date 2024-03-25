@@ -1,14 +1,1 @@
----
-layout: none
----
-[
-  {% for post in site.posts %}
-    {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
+[{"title":"Embracing the Future of Cybersecurity","category":"","tags":"ISC2, FutureOfSecurity","url":"/blog/2023/Embracing-the-Future-of-Cybersecurity/","date":"2023-11-06 00:00:00 +0000"},{"title":"Conquering the CISSP Certificate Exam","category":"","tags":"CISSP, certification, exam-reparation, ISC2, firebrand-training, professional-development, career-advancement","url":"/blog/2023/Conquering-the-CISSP-Certificate-Exam/","date":"2023-05-27 00:00:00 +0000"},{"title":"Assessing Security Header Vulnerabilities in Penetration Test Findings","category":"","tags":"security-headers, threat-modeling, secure-coding, best-practices, collaboration-and-teamwork","url":"/blog/2023/assessing-security-headers/","date":"2023-03-16 00:00:00 +0000"}]
